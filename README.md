@@ -1,4 +1,5 @@
 # lz
+LZMA压缩
 LZMA WASM=0
 # 使用方法
 ```javascript
